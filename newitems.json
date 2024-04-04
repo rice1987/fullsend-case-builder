@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": "1",
     "name": "BAPE Color Camo Big Ape Head Tee 'Black/Red'",
     "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/062/284/193/original/837549_00.png.png?action=crop&width=750",
@@ -150,19 +151,19 @@
   },
   {
     "id": "26",
-    "name": "GREATEST Magazine Issue 08 - Clipse",
+    "name": "GREATEST Magazine Issue 08 Clipse",
     "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/705/962/original/1315604_00.png.png?action=crop&width=360",
     "price": 6
   },
   {
     "id": "27",
-    "name": "GREATEST Magazine Issue 07 - Brent Faiyaz",
+    "name": "GREATEST Magazine Issue 07 Brent Faiyaz",
     "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/085/860/576/original/1156836_00.png.png?action=crop&width=360",
     "price": 7
   },
   {
     "id": "28",
-    "name": "GREATEST Magazine Issue 08 - Eli Russell Linnetz",
+    "name": "GREATEST Magazine Issue 08 Eli Russell Linnetz",
     "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/705/975/original/1315603_00.png.png?action=crop&width=360",
     "price": 9
   },
@@ -180,7 +181,7 @@
   },
   {
     "id": "31",
-    "name": "GREATEST Magazine Issue 06 - Angus Cloud",
+    "name": "GREATEST Magazine Issue 06 Angus Cloud",
     "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/085/682/083/original/1156837_00.png.png?action=crop&width=360",
     "price": 5
   },
@@ -318,7 +319,7 @@
   },
   {
     "id": "54",
-    "name": "Air Jordan 3 Retro SE 'Craft - Ivory'",
+    "name": "Air Jordan 3 Retro SE 'Craft Ivory'",
     "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/217/890/original/1301503_00.png.png?width=100",
     "price": 212
   },
@@ -420,7 +421,7 @@
   },
   {
     "id": "71",
-    "name": "16 OZ can of Coca-Cola",
+    "name": "16 OZ can of CocaCola",
     "price": 1.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225131742990569492/Untitled.png?ex=662003d9&is=660d8ed9&hm=a6c8711a1b48256b8601b6d5c91a4fe42988257e608fd8bc4b12cd4a811f9c99&=&format=webp&quality=lossless"
   },
@@ -516,7 +517,7 @@
   },
   {
     "id": "87",
-    "name": "OVO Inflantable Basketball, Gold / Black",
+    "name": "OVO Inflantable Basketball, Gold Black",
     "price": 26.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225136994724876378/removal.ai_a57fea84-172b-4850-a2d6-3066b4f2331f-hrhgrd_1.png?ex=662008bd&is=660d93bd&hm=6ed77b7783f4919c4cd9e2450cdc2593bcf4b5a4e43a547441ea6a7e84e392cc&=&format=webp&quality=lossless"
   },
@@ -552,7 +553,7 @@
   },
   {
     "id": "93",
-    "name": "Dove Originial Anti-Perspirant",
+    "name": "Dove Originial AntiPerspirant",
     "price": 5.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225137613678055535/removal.ai_f39d86f9-11ef-44d6-be56-219bd7bc0586-image.png?ex=66200951&is=660d9451&hm=9eb405bea228edabfa815d089990cec0f5e43f8c05f970b37656218923ffe717&=&format=webp&quality=lossless&width=210&height=554"
   },
@@ -576,7 +577,7 @@
   },
   {
     "id": "97",
-    "name": "Old Spice Anti-Perspirant Deodorant",
+    "name": "Old Spice AntiPerspirant Deodorant",
     "price": 5.1,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225138050871328838/removal.ai_2e30e651-05b8-4c08-a1e3-203e8daa766f-image_1_1_1.png?ex=662009b9&is=660d94b9&hm=e4944d780ce58f25cb08950c4692290fcb75be0f893f6e876e9eeb158f66cff7&=&format=webp&quality=lossless&width=498&height=554"
   },
@@ -606,13 +607,13 @@
   },
   {
     "id": "102",
-    "name": "AMAZON BASICS 8-PACK AAA Batteries ",
+    "name": "AMAZON BASICS 8PACK AAA Batteries ",
     "price": 9,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225139151880454275/Removal-475_2_1.png?ex=66200abf&is=660d95bf&hm=5421fe2df4d5c642f9ec57e316f997b1e2d5eb20f48ef238114d74c11260c06d&=&format=webp&quality=lossless&width=302&height=350"
   },
   {
     "id": "103",
-    "name": "Generic Men's Backpack - Black",
+    "name": "Generic Men's Backpack Black",
     "price": 24.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225139316804681808/removal.png?ex=66200ae7&is=660d95e7&hm=8ea6edeba0ae965c163089f31e6ccdf2d0ed0cdb7eb39dcf75ce92ee4d412d2b&=&format=webp&quality=lossless&width=191&height=350"
   },
@@ -678,7 +679,7 @@
   },
   {
     "id": "114",
-    "name": "Vans 28'' Laces - White",
+    "name": "Vans 28'' Laces White",
     "price": 6.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225142007639576646/Removal-987_1_1.png?ex=66200d68&is=660d9868&hm=cd648fb385e0e4cb07c24b823cfb083dcabae6c0ff23b00417784db885b305bb&=&format=webp&quality=lossless&width=447&height=554"
   },
@@ -690,7 +691,7 @@
   },
   {
     "id": "116",
-    "name": "VR PROTECTIVE COVER FOR OCULUS QUEST 2 - GREEN",
+    "name": "VR PROTECTIVE COVER FOR OCULUS QUEST 2 GREEN",
     "price": 6.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225143794341777571/removal.png?ex=66200f12&is=660d9a12&hm=4be17e12c258ec81c90bd0f261d1885acfbb94c1905603d1001d1bbfbc9ff3bd&=&format=webp&quality=lossless"
   },
@@ -732,7 +733,7 @@
   },
   {
     "id": "123",
-    "name": "Casio 10160334 - Watch Strap",
+    "name": "Casio 10160334 Watch Strap",
     "price": 8.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225151331702935642/Removal-791_1.png?ex=66201617&is=660da117&hm=d485a7eaf51f79e16b345c003868c07f9bb37a9b568fe59ebecaf6c338d2b2fa&=&format=webp&quality=lossless"
   },
@@ -744,7 +745,7 @@
   },
   {
     "id": "125",
-    "name": "CASIO STANDARD DIGITAL WATCH WITH LED-LIGHT F-91W-1JF",
+    "name": "CASIO STANDARD DIGITAL WATCH WITH LEDLIGHT F91W1JF",
     "price": 24.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225151450506858546/removal.png?ex=66201634&is=660da134&hm=d064909253dacf60dbf054ded71251b5338ec491095077766505ea1014ed9896&=&format=webp&quality=lossless&width=306&height=554"
   },
@@ -756,13 +757,13 @@
   },
   {
     "id": "127",
-    "name": "Off-White New Logo Face Mask - Black/White",
+    "name": "Off-White New Logo Face Mask Black/White",
     "price": 34.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225151962711068712/Removal-87_1_1.png?ex=662016ae&is=660da1ae&hm=488acb80714fcf50feb6d9a92cd64d07c03feeeca89689c364ac1ca77f427736&=&format=webp&quality=lossless&width=262&height=350"
   },
   {
     "id": "128",
-    "name": "Nike - Men's Football Belt",
+    "name": "Nike Men's Football Belt",
     "price": 8.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225152128469700669/removal.png?ex=662016d5&is=660da1d5&hm=50bdf7d4c714ac027ec21f58dc61ec64d00b767ce4888bb08a22debc71727fda&=&format=webp&quality=lossless&width=554&height=554"
   },
@@ -786,25 +787,25 @@
   },
   {
     "id": "132",
-    "name": "Prime Hydration+ Stick Pack | 18 Sticks",
+    "name": "Prime Hydration+ Stick Pack 18 Sticks",
     "price": 8.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225154345453096970/removal.png?ex=662018e6&is=660da3e6&hm=19c97c55418b639854deebd09c8fb6a48bcd1839053c4b98de5a8932c7b78c0c&"
   },
   {
     "id": "132",
-    "name": "Prime Hydration Drink Variety Pack - 15 Pack",
+    "name": "Prime Hydration Drink Variety Pack 15 Pack",
     "price": 22.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225154412079743137/removal.png?ex=662018f6&is=660da3f6&hm=974d8a237fca2effe20701bd18ee6fc3ada5072da289ef7a1f8aa40c558210a0&"
   },
   {
     "id": "133",
-    "name": "USB-C to Apple Pencil Adapte",
+    "name": "USBC to Apple Pencil Adapte",
     "price": 9.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225154775889219645/removal.png?ex=6620194c&is=660da44c&hm=4fd6a735eb57984cddfa43dce6a87b07955ef96f1bdacf689e80cf15609f7a82&"
   },
   {
     "id": "134",
-    "name": "Apple USB-C Charge Cable",
+    "name": "Apple USBC Charge Cable",
     "price": 11.35,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225155255264874660/apple-usb-c-charging-cable-1m-white-sku-header.png?ex=662019bf&is=660da4bf&hm=b6388196159bc9b7733328bddd5121fb3e9661897b511f579630b6846febc882&"
   },
@@ -840,25 +841,25 @@
   },
   {
     "id": "140",
-    "name": "Nintendo Protection Case - Champions Of Hyrule",
+    "name": "Nintendo Protection Case Champions Of Hyrule",
     "price": 18.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225160650683060254/Removal-762_1.png?ex=66201ec5&is=660da9c5&hm=3198c8297e8fd4462445b91f71e2c2727d8b43142c33a4a707dea2d9136d19ba&"
   },
   {
     "id": "141",
-    "name": "Generic Men's Stripe Wallet - Black",
+    "name": "Generic Men's Stripe Wallet Black",
     "price": 7.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225160886436495451/removal.png?ex=66201efd&is=660da9fd&hm=bb790ac5829918a7e3480cf47119a0f20a7ea2be17805404afe78899a322e76d&"
   },
   {
     "id": "142",
-    "name": "Generic Men's Bum Bag - Black",
+    "name": "Generic Men's Bum Bag Black",
     "price": 11.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225160986085036164/removal.png?ex=66201f15&is=660daa15&hm=aa85e1eedb5c60e11f194c7b990b0e0d2dbf3f5624ee9ee70d5842fafd3fe9c3&"
   },
   {
     "id": "142",
-    "name": "Generic Men's Classic Sunglasses - Black",
+    "name": "Generic Men's Classic Sunglasses Black",
     "price": 13.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225161055781523466/removal.png?ex=66201f26&is=660daa26&hm=1b1bb1b32574500419b7c330fa3e47aeb96d95f43e2743266ece1104b82b1137&"
   },
@@ -870,13 +871,13 @@
   },
   {
     "id": "144",
-    "name": "Amazon Basics USB-A to Micro USB Fast Charging Cable",
+    "name": "Amazon Basics USBA to Micro USB Fast Charging Cable",
     "price": 13.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225161294341210193/Removal-964_1.png?ex=66201f5e&is=660daa5e&hm=276dd2cd1c9836a809c70445ea33ac01aa667d92972a0c34e423315645273fbd&"
   },
   {
     "id": "145",
-    "name": "Razer Gigantus V2 Medium - Soft Medium Gaming Mouse Mat",
+    "name": "Razer Gigantus V2 Medium Soft Medium Gaming Mouse Mat",
     "price": 20.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225161349928325222/removal.png?ex=66201f6c&is=660daa6c&hm=a0fb3a14f4daa6e755341b11387771fe26e555cc15b51f3f557fe0c4ec00b975&"
   },
@@ -888,19 +889,19 @@
   },
   {
     "id": "147",
-    "name": "Victoria's Secret Flap Card Case Keychain - White Perforarated",
+    "name": "Victoria's Secret Flap Card Case Keychain White Perforarated",
     "price": 27.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225161619018092584/removal.png?ex=66201fac&is=660daaac&hm=488e55a8c6eb6c30e9012a2116a45b7a973de0ae57e1700255b0cb2ec7ef7143&"
   },
   {
     "id": "148",
-    "name": "Victoria's Secret Logo Cotton High-Waist Boxer Brief - Heather Gray",
+    "name": "Victoria's Secret Logo Cotton High-Waist Boxer Brief Heather Gray",
     "price": 18.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225161675309846659/removal.png?ex=66201fb9&is=660daab9&hm=6c37820bae428030d4b8f0f45b2affc57816438e42a011e2387e381b3ab52d4a&"
   },
   {
     "id": "149",
-    "name": "Represent Owners Club Socks - Flat White/Brown",
+    "name": "Represent Owners Club Socks Flat White/Brown",
     "price": 12.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225161905371615332/Removal-979_1.png?ex=66201ff0&is=660daaf0&hm=1bf72e8e3f8571001c3efea02dd07faadd8abbe73de4f9287a5af46e719cba98&"
   },
@@ -912,7 +913,7 @@
   },
   {
     "id": "151",
-    "name": "Jason Markk - Premium Microfiber Towel",
+    "name": "Jason Markk Premium Microfiber Towel",
     "price": 15.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225163371083468830/removal.png?ex=6620214e&is=660dac4e&hm=d666b62c4d30ee019d924497a218b1985d7e47e5c08432c85bad828cc8235f2e&"
   },
@@ -930,7 +931,7 @@
   },
   {
     "id": "154",
-    "name": "So…? Unique Womens Truffle Cream Body Mist Fragrance, 150ml",
+    "name": "Soâ¦? Unique Womens Truffle Cream Body Mist Fragrance, 150ml",
     "price": 12.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225164142277689385/removal.png?ex=66202205&is=660dad05&hm=466c27ea35190c35d74544ed855efd8de1cb0988bf900c221f20e8f55ac38c35&"
   },
@@ -1018,13 +1019,13 @@
   },
   {
     "id": "170",
-    "name": "Nike - Men's Football Belt",
+    "name": "Nike Men's Football Belt",
     "price": 8.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225170425273909318/Removal-733_1_1.png?ex=662027df&is=660db2df&hm=31f399bf7118221f7b9e4a33807e5d5630ca6d6b47ea317633c279ee0e3748cd&"
   },
   {
     "id": "171",
-    "name": "DC 4 Film Collection [Wonder Woman/Man of Steel/Batman v Superman/Suicide Squad]",
+    "name": "DC 4 Film Collection Wonder WomanMan of Steel/Batman v SupermanSuicide Squad",
     "price": 24.0,
     "image": "https://media.discordapp.net/attachments/1224913388656791583/1225152128469700669/removal.png?ex=662016d5&is=660da1d5&hm=50bdf7d4c714ac027ec21f58dc61ec64d00b767ce4888bb08a22debc71727fda&=&format=webp&quality=lossless&width=554&height=554"
   },
@@ -1060,25 +1061,25 @@
   },
   {
     "id": "177",
-    "name": "Call of Duty: Ghosts - PlayStation 3",
+    "name": "Call of Duty: Ghosts PlayStation 3",
     "price": 15.60,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225173748559249680/Removal-888_1_1.png?ex=66202af8&is=660db5f8&hm=47aa4ad79722613fea2c699e748f0887f39f25be78ba841a569934a2cae3bb3d&"
   },
   {
     "id": "178",
-    "name": "KontrolFreek FPS Freek Galaxy Purple for Xbox One and Xbox Series X Controller - Purple",
+    "name": "KontrolFreek FPS Freek Galaxy Purple for Xbox One and Xbox Series X Controller Purple",
     "price": 11.75,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225173881426411590/removal.png?ex=66202b17&is=660db617&hm=ec7dca36ab823c6b1addabc1cf15643288d3a988cc53afd311df066f49a46b4d&"
   },
   {
     "id": "179",
-    "name": "Rechargeable Batteries for Xbox One/Xbox Series X|S",
+    "name": "Rechargeable Batteries for Xbox One/Xbox Series XS",
     "price": 29.60,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225174007884546098/removal.png?ex=66202b36&is=660db636&hm=f8fe4214a61e524c2df0d98d212c0f1f3cc28f68618d342ad5fd4168266b2b9b&"
   },
   {
     "id": "180",
-    "name": "eXtremeRate Custom Shell for Xbox Series X & S Controller - Revitalize Your Controller - Green Weeds",
+    "name": "eXtremeRate Custom Shell for Xbox Series X  SController Revitalize Your Controller Green Weeds",
     "price": 25.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225173959666962432/removal.png?ex=66202b2a&is=660db62a&hm=ac7fcee04a9821a8b75ded24cb336fe10759a72355e138856500393c915ee11c&"
   },
@@ -1114,19 +1115,19 @@
   },
   {
     "id": "186",
-    "name": "Pokémon TCG: Sword & Shield-Brilliant Stars Booster Pack (10 Cards)",
+    "name": "PokÃ©mon TCG Sword Shield-Brilliant Stars Booster Pack (10 Cards)",
     "price": 6.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225175464952336484/removal.png?ex=66202c91&is=660db791&hm=9e70eefa5cb8a3944cb9f802bb52c8e0e2666662c7d68508b09efa48d0a0d049&"
   },
   {
     "id": "187",
-    "name": "Pokémon TCG: Sword and Shield-Lost Origin Mini Portfolio and Booster Pack",
+    "name": "PokÃ©mon TCG Sword and Shield-Lost Origin Mini Portfolio and Booster Pack",
     "price": 6.50,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225175497001144442/removal.png?ex=66202c99&is=660db799&hm=895661d82cf5154c101b0f50789407049cbc20b2ccd51d917db3a40e623c9650&"
   },
   {
     "id": "188",
-    "name": "Pokémon TCG: Sword and Shield-Astral Radiance Mini Portfolio and Booster Pack",
+    "name": "PokÃ©mon TCG Sword and Shield-Astral Radiance Mini Portfolio and Booster Pack",
     "price": 8.90,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225175546946912356/Removal-853_1_1.png?ex=66202ca5&is=660db7a5&hm=cde09dc1ebf07f3ed5a0e756c2f566f6b4e072a62b78d8f4dc350425a10da24b&"
   },
@@ -1174,7 +1175,7 @@
   },
   {
     "id": "196",
-    "name": "Drake Anita Max Wynn Hat - Pink",
+    "name": "Drake Anita Max Wynn Hat Pink",
     "price": 56.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225176459921068074/Removal-841_1_1.png?ex=66202d7e&is=660db87e&hm=a9747c708b3352bc5ab8b1d71f06abe963c5c27ee5ce68cfd4f82fa211479c38&"
   },
@@ -1186,162 +1187,150 @@
   },
   {
     "id": "198",
-    "name": "Casio Mens Digital F-91WC-4A2EF",
+    "name": "Casio Mens Digital F91WC4A2EF",
     "price": 40.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225176668407336993/removal.png?ex=66202db0&is=660db8b0&hm=1b785aba5aa84bef94f1af77a666b3bbefdf5d0f50d72f237bd656de884c85cd&"
   },
   {
     "id": "199",
-    "name": "Casio G-Shock - W217HM-9A",
+    "name": "Casio GShock W217HM9A",
     "price": 42.50,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225176721607626882/removal.png?ex=66202dbd&is=660db8bd&hm=bace2ee7c5666d6bbab1808c139dde3da3c379b2ef0b225354bb458f887dea55&"
   },
   {
     "id": "200",
-    "name": "Casio G-Shock - MW-240-7E",
+    "name": "Casio GShock  MW2407E",
     "price": 54.40,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225176766767956039/removal.png?ex=66202dc7&is=660db8c7&hm=3b0a94a41c7d7f9bac69511cc6e849a2a995c564ef88d75a8ff4acb421037bc2&"
   },
   {
     "id": "201",
-    "name": "Casio G-Shock - LTP-V004G-7B",
+    "name": "Casio GShock LTPV004G7B",
     "price": 66.60,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225176811064000593/removal.png?ex=66202dd2&is=660db8d2&hm=cea67d238a4ef73020f8e3ce6da4402f2f35afda9a84fbd413eb2193021302c2&"
   },
   {
     "id": "202",
-    "name": "Casio G-Shock - AE-1400WH-9A",
+    "name": "Casio GShock  AE1400WH9A",
     "price": 76.75,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225176959089250394/removal.png?ex=66202df5&is=660db8f5&hm=7f21e0d203dbbd543729b06ff83ded4dfb52e51f8f9ccb7acf5bb5c177739bc5&"
   },
   {
     "id": "203",
-    "name": "Casio Data Bank - CA-506B-1A",
+    "name": "Casio Data Bank CA506B1A",
     "price": 92.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177004622483626/Removal-326_1_1_1.png?ex=66202e00&is=660db900&hm=703e9227c780b84adc676260e13a90f7aaf231505e613fd70c66944d411bc94b&"
   },
   {
     "id": "204",
-    "name": "Casio G-Shock - MTP-VD01B-1B",
+    "name": "Casio GShock  MTPVD01B1B",
     "price": 101.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177073119793162/Removal-3_1_1.png?ex=66202e10&is=660db910&hm=b5ef565e7a0dd842a52ebb085cba222e2740b3c4b7dd6b531a38bd3d0ca48d06&"
   },
   {
-    "id": "205",
-    "name": "Man Eau Fraiche by Versace, 0.17 Ounce",
-    "price": 22.23,
-    "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225171830201913465/removal.png?ex=6620292e&is=660db42e&hm=545e17dc8fd2395fd5fe2df81aff6474d1af26b5ba912c61c084c31feb08793c&"
-  },
-  {
     "id": "206",
-    "name": "Casio G-Shock - DBC-611G-1DF",
+    "name": "Casio GShock DBC611G1DF",
     "price": 110.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177151658135613/removal.png?ex=66202e23&is=660db923&hm=cf44a45e2434eda0a9167ed5a70f6e7178302176761032305d700c0d58084918&"
   },
 
   {
     "id": "207",
-    "name": "Casio G-Shock - DW-5600WM-5",
+    "name": "Casio GShock DW5600WM5",
     "price": 120.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177181412397177/removal.png?ex=66202e2a&is=660db92a&hm=2076514598860e4178e58a5aa3937be94c784a61b6afebf53c2ff424c3b00d47&"
   },
   {
     "id": "208",
-    "name": "Casio G-Shock - GA-900SKL-7A",
+    "name": "Casio GShock GA900SKL7A",
     "price": 145.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177270688157726/removal.png?ex=66202e40&is=660db940&hm=4a246f02494855ebadbdd65276d120e18697f0e4bc7c053f42bef4eb1d38a608&"
   },
   {
     "id": "209",
-    "name": "Casio G-Shock - GM-5600SG-9",
+    "name": "Casio GShock GM5600SG-9",
     "price": 156.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177340020264990/removal.png?ex=66202e50&is=660db950&hm=0d1341e07c608db3622ed6c742f009bbbb3375f70c78753a177a34e8c0b94e95&"
   },
 
   {
     "id": "210",
-    "name": "Casio G-Shock Baby-G x Pokemon Pikachu - BGD-560PKC-1",
+    "name": "Casio GShock BabyG Pokemon Pikachu BGD560PKC1",
     "price": 210.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177396962136114/removal.png?ex=66202e5e&is=660db95e&hm=579ad9c4ca3404b21021847ded5d86264163e8c197e925cd367ce765aa5888e5&"
   },
   {
     "id": "211",
-    "name": "Casio Vintage x Pac-Man - A100WEPC-1B",
+    "name": "Casio Vintage Pac-Man A100WEPC1B",
     "price": 216.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177453304090694/removal.png?ex=66202e6b&is=660db96b&hm=0ea5ddcc25bd5e5ad32b89709045d73e9172e5ccc38b72ff7b0fd3b7b425cb5a&"
   },
   {
     "id": "212",
-    "name": "Casio G-Shock Precious Heart Selection - GM-S2100CH-1A",
+    "name": "Casio GShock Precious Heart Selection  GMS2100CH1A",
     "price": 250.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177494336831620/removal.png?ex=66202e75&is=660db975&hm=6f8db70be8134e54eda79f9024ff98d7dec5f92bbd0c4a83c6dd6d654d9f1d9d&"
   },
   {
     "id": "213",
-    "name": "Casio G-Shock x Dragonball Z - GA-110JDB-1A4",
+    "name": "Casio GShock Dragonball Z GA-110JDB1A4",
     "price": 300.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177557830209556/removal.png?ex=66202e84&is=660db984&hm=a5b80b0f6cb057598c6270862c39c98a5ba056a895d3908879b7dae1dff81ae0&"
   },
   {
     "id": "215",
-    "name": "Casio G-Shock Rick and Morty - DW5600RM21-1",
+    "name": "Casio GShock Rick and Morty DW5600RM211",
     "price": 315.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177618584830022/removal.png?ex=66202e92&is=660db992&hm=299aac6e52d925ee28693f2f936824d2daabd833cb0b0d5a8b6ac474bc5e8cec&"
   },
 
   {
     "id": "216",
-    "name": "Casio G-Shock - GST-B500GD-9A",
+    "name": "Casio GShock  GSTB500GD9A",
     "price": 22.23,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177669478387793/removal.png?ex=66202e9f&is=660db99f&hm=82271639e84314c75a8c2508a2b1bcd75c34c0f904f8c84f2f0ecd76bb48ca85&"
   },
   {
     "id": "217",
-    "name": "Casio G-Shock - GMW-B5000GD-4",
+    "name": "Casio GShock GMW-B5000GD4",
     "price": 432.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177734041440276/removal.png?ex=66202eae&is=660db9ae&hm=735c7c801a454a804515b7e25590cd5cc54885efa82f97ea094cf00db64a30ed&"
   },
   {
     "id": "218",
-    "name": "Casio G-Shock x Wu-Tang - GM6900WTC22",
+    "name": "Casio GShock Wu-Tang GM6900WTC22",
     "price": 488.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225177828606083162/removal.png?ex=66202ec5&is=660db9c5&hm=7a59c6057f1d872f9ca081318dec60025b67118471a491b318a82f92be4f2d7d&"
   },
   {
     "id": "219",
-    "name": "Casio G-Shock x Kith - GM-6900",
+    "name": "Casio GShock Kith GM6900",
     "price": 735.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225178204868968638/removal.png?ex=66202f1e&is=660dba1e&hm=02196b632e3500c2f1b3e3cb82fbd8934e38550cfcbb54fcf70a1d3dae1a98f4&"
   },
   {
     "id": "220",
-    "name": "Casio G-Shock - GM2100MG-1A",
+    "name": "Casio GShock GM2100MG1A",
     "price": 609.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225178104792612864/removal.png?ex=66202f06&is=660dba06&hm=a0d8581aef8fd4a438dd9eacc1dca7ce1c00b1351a929eba40bdd416a23244d3&"
   },
   {
     "id": "221",
-    "name": "Casio G-Shock x BAPE Limited Edition - GA-110",
+    "name": "Casio GShock  BAPE Limited Edition  GA110",
     "price": 864.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225178296958976060/removal.png?ex=66202f34&is=660dba34&hm=78b64798f7cd1329957b5572b2291fda636ddd97bf66f22be3b64d1bcfd3bf6b&"
   },
 
   {
     "id": "222",
-    "name": "Nike LeBron 3 - The Shop Black University Red (2022)",
+    "name": "Nike LeBron 3 The Shop Black University Red (2022)",
     "price": 114.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225178495764660285/removal.png?ex=66202f64&is=660dba64&hm=ba8d56911b538cef6156dd69bbd8ef6405c6e08505130b54a006ecb62c2cab40&"
   },
   {
     "id": "223",
-    "name": "Nike Dunk High 1985 SP - Orange Acid Wash",
+    "name": "Nike Dunk High 1985 SP Orange Acid Wash",
     "price": 119.00,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225178536772370522/removal.png?ex=66202f6d&is=660dba6d&hm=c7b903ededb105d0d04bd83ad14c04874c0d74bab2dda09bf0d2c4c0825ccf28&"
-  },
-  {
-    "id": "224",
-    "name": "Man Eau Fraiche by Versace, 0.17 Ounce",
-    "price": 22.23,
-    "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225171830201913465/removal.png?ex=6620292e&is=660db42e&hm=545e17dc8fd2395fd5fe2df81aff6474d1af26b5ba912c61c084c31feb08793c&"
   }
 ]
