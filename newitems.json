@@ -2050,5 +2050,60 @@
     "name": "Razer Basilisk Ultimate HyperSpeed Wireless Gaming Mouse",
     "price": 95.0,
     "image": "https://cdn.discordapp.com/attachments/1224913388656791583/1225259009569722428/removal.png?ex=66207a60&is=660e0560&hm=2bdb8069a5155edb478c895809ed76a4baa905fdcf1e556292375fbc5d6c4b57&"
-  }
+  },
+  {
+    "id": "280",
+    "name": "Black Cat Ears Headband",
+    "price": 3.75,
+    "image": "https://cdn.discordapp.com/attachments/957702130414780416/1227003177434611783/Untitled.png?ex=6626d2c2&is=66145dc2&hm=ab6aa9e24b2b89e97bdba4ba2e8e223ae219ae8c223c38a23ec2a8363cf1dbc6&"
+  },
+  {
+    "id": "281",
+    "name": "IKEA Blahaj Blue / Cyan Shark",
+    "price": 22.75,
+    "image": "https://cdn.discordapp.com/attachments/957702130414780416/1227004243823820941/Untitled.png?ex=6626d3c0&is=66145ec0&hm=55c83f01d11dd1655239eb911ac34d4402e6ce134bd64da1a8d3c7d0fb1fb77f&"
+  },
+  {
+    "id": "282",
+    "name": "Black and White Striped ThighHighs",
+    "price": 6.50,
+    "image": "https://media.discordapp.net/attachments/957702130414780416/1227004969815900243/Untitled.png?ex=6626d46d&is=66145f6d&hm=9eab8f7325836f4618135eac355af9aebd184fe46e658430a4a2bbac96c1fece&=&format=webp&quality=lossless&width=182&height=179"
+  },
+  {
+    "id": "283",
+    "name": "Pink and White Striped ThighHighs",
+    "price": 6.25,
+    "image": "https://cdn.discordapp.com/attachments/957702130414780416/1227005220538548224/Untitled.png?ex=6626d4a9&is=66145fa9&hm=c5611470d94cc791b496139bbcbaf66d5082eebf78a1102734a7cd1e46c20271&"
+  },
+  {
+    "id": "284",
+    "name": "Astolfo Wig with Black Ribbons, Pink",
+    "price": 11.50,
+    "image": "https://cdn.discordapp.com/attachments/957702130414780416/1227006114822881382/Untitled.png?ex=6626d57e&is=6614607e&hm=3ce6b6a434c0dd8daa2f5c19eec9d3993a9cb81c12f497073d72f0153cbf5c0c&"
+  },
+  {
+    "id": "285",
+    "name": "Playstation 4 Console with Controller ",
+    "price": 230.00,
+    "image": "https://cdn.discordapp.com/attachments/957702130414780416/1227007037691396156/Untitled.png?ex=6626d65a&is=6614615a&hm=862228327ecaf85b6e8d8fa2a008fe6666927999e64c70c202728be634124a40&"
+  },
+  {
+    "id": "286",
+    "name": "Wii Console with Controller and Strap",
+    "price": 35.0,
+    "image": "https://media.discordapp.net/attachments/957702130414780416/1227007268055416924/Untitled.png?ex=6626d691&is=66146191&hm=f11b486395ce6304e7e77115b2cbde9518c08a20972de92aec602dcf6c9d876a&=&format=webp&quality=lossless&width=550&height=550"
+  },
+  {
+    "id": "287",
+    "name": "3DS Blue and Black, Normal",
+    "price": 28.0,
+    "image": "https://media.discordapp.net/attachments/957702130414780416/1227007482094944347/Untitled.png?ex=6626d6c4&is=661461c4&hm=63283959905692afc927610dff8008489e1cbc1312d59d2401dcc3f42b52c386&=&format=webp&quality=lossless&width=577&height=522"
+  },
+  {
+    "id": "289",
+    "name": "PS3 Black Basic Controller",
+    "price": 13.50,
+    "image": "https://cdn.discordapp.com/attachments/957702130414780416/1227007685119967392/Untitled.png?ex=6626d6f4&is=661461f4&hm=aef4812624c8aa9d978550464cec2d633e2c36751d786ef3ef139bc9344d2402&"
+  },
+ 
 ]
