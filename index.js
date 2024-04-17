@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function () {
         price += item.price * percent;
     }
 
-    return Number(price * 1.08);
+    return Number(price * 1.10);
   }
   
 });
